@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/testTomcat">
+
+<Resource name="mail/Session" auth="Container"
+          type="javax.mail.Session"
+          username="contact@smooss.fr"
+          password="sB9_pF9Xc$"
+          mail.smtp.host="mailll.lwspanel.com"
+          mail.transport.protocol="smtp"
+          mail.smtp.port="587"
+          mail.smtp.auth="true"
+          mail.smtp.starttis.enable="true"
+          mail.smtp.trust="true" />
+
+</Context>
+

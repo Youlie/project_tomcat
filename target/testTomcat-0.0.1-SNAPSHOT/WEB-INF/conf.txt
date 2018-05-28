@@ -1,0 +1,3 @@
+# ici un commentaire
+login.do;com.aplose.smooss.action.LoginAction;/WEB-INF/main.jsp;/WEB-INF/error.jsp
+#logout.do;com.aplose.smooss.action.LogoutAction;/WEB-INF/main.jsp;/WEB-INF/error.jsp
